@@ -1,0 +1,18 @@
+# Berkas unggahan bukti transaksi (kecuali .gitkeep)
+uploads/*
+!uploads/.gitkeep
+
+# Berkas arsip & cadangan
+*.zip
+*.rar
+*.7z
+*.tar.gz
+
+# Sistem Operasi & Editor
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
+.idea/
+.vscode/
+*.log
